@@ -18,4 +18,6 @@
 
 5)  **Running tests:** mvn test
 
+6)  **Swagger APIs link:** http://localhost:8082/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config
+
        
